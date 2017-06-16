@@ -1,0 +1,215 @@
+body{
+	margin: 0;
+	font-family: 'courier', sans-serif;
+	font-size: 18px;
+	line-height: 1.6;
+	background: #FFF;
+	color: #444;
+	width: 50%;
+	border-left: 0px solid #DDD.
+}
+
+.wrapper-black{
+	width: 1350px;
+	height: 50px;
+	background-color: black;
+
+}
+
+header  ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+header ul li{
+	float: left;
+	width: 16.66667%;
+	margin: 0;
+	padding: 0;
+}
+
+header  a{
+color: white;
+	font-size: 1em;
+	padding: 15px 0;
+	text-align: center;
+}
+
+header a:hover{
+	color: #A6A6A6;
+}
+
+.feature1{
+	margin-left:300px; 
+}
+
+.wrapper-grey{
+	width: 1350px;
+	font-size: 13px;
+	background:#EDEFF0;
+	color: #4e4e4e;
+}
+
+.container ul li{
+	float: left;
+	width: 12%;
+	margin: 0;
+	padding: 0;
+}
+
+.container a{
+margin-top: 60px;
+	font-size: 1.25em;
+	padding-right: 15px;
+	text-align: center;
+}
+
+h1{
+	font-weight: bold;
+	font-size:35px;
+	margin-left: 30px; 
+	text-align: center;
+}
+
+
+.wrapper-white{
+	width: 1200px;
+	margin-top: 60px;
+}
+
+.wrapper1{
+margin-top: 40px;
+margin-left: 30px;
+}	
+
+.wrapper2{
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+h2{
+font-weight: bold;
+color: #777777;
+}
+
+.wrapper2 a{
+	color: #B1B1B1;
+}
+
+
+#Wrapper-white{
+	width: 1200px;
+	margin-top: 60px;
+}
+
+
+.wrapper3{
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+
+.wrapper4{
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+.wrapper4 a{
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.Wrapper-grey{
+	padding-top: 30px;
+	height: 200px;
+text-align: center;
+background:#EDEFF0;
+width: 1350px;
+}
+
+button{
+	color: white;
+	background-color: #000000;
+	border-color: #000000;
+}
+
+button:hover{
+	color: #000000;
+	background:#EDEFF0;
+}
+
+.cat p button h1{
+	margin-top: 50px;
+}
+
+.pot{
+	margin-right: 600px;
+}
+
+.xar{
+	margin-left: 200px; 
+}
+
+.Wrapper-white{
+	margin-right: 9px;
+}
+
+.pit{
+	margin-left: 450px;
+}
+
+#wrapper-white{
+	margin-left: 100px;
+	width: 1200px;
+	margin-top: 60px;
+	margin-bottom: 160px;
+}
+
+.top{
+	padding-right:0px; 
+}
+
+h3{
+	font-weight: bold;
+}
+
+.Wrapper-Grey{
+padding-top: 30px;	
+height: 400px;
+text-align: center;
+background:#EDEFF0;
+width: 1350px;
+}
+
+.tout{
+	padding-left:660px;
+	padding-bottom: 550px; 
+}
+
+.WRapper-black a{
+	padding-top: 160px;
+color: white;	
+}
+
+.WRapper-black{
+height: 400px;	
+background-color:#000000; 
+width: 1350px;
+}
+
+.foot{
+margin-top: 60px;
+margin-left: 60px;
+}
+
+.text-inline1 ul li{
+	list-style: none;
+}
+
+
+.text-inline1 ul p{
+margin-left: 80px;
+}
